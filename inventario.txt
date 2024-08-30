@@ -1,0 +1,4 @@
+Articulo{ nombre = "uvas", categoria = "frutas" }
+Articulo{ nombre = "manzana", categoria = "frutas" }
+Articulo{ nombre = "jabon de manos", categoria = "aseo" }
+Articulo{ nombre = "shampoo", categoria = "aseo" }
